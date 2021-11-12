@@ -1,12 +1,12 @@
 body{
-    font-size: normal 10pt arial;
+    font-size: normal 10pt Sans-serif;
     position: absolute;
     top: 50%; /* distancia em relacao ao topo*/
     left: 50%;
     transform: translate(-50%,-65%); 
 }
 header{
-    color: white;
+    color: rgb(17, 149, 158);
     text-align: center;
 }
 section{
@@ -15,7 +15,7 @@ section{
     padding: 10px;
     width: 300px;
     margin: auto;
-    box-shadow: 3px 3px 3px rgba(red, green, blue, alpha);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0);
     text-align: center;
 
 }
@@ -31,7 +31,7 @@ footer{
     cursor: pointer;
     color: white;
     margin: 2px;
-    background-color: rgb(102, 228, 237);
+    background-color: rgb(17, 149, 158);
     border-radius:3px;
     border: none;
 }
