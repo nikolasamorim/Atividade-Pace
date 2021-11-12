@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(94, 94, 226);
+    background-color: rgb(102, 228, 237);
     font-size: normal 10pt arial;
     position: absolute;
     top: 50%; /* distancia em relacao ao topo*/
@@ -32,7 +32,7 @@ footer{
     cursor: pointer;
     color: white;
     margin: 2px;
-    background-color: rgb(94, 94, 226);
+    background-color: rgb(102, 228, 237);
     border-radius:3px;
     border: none;
 }
