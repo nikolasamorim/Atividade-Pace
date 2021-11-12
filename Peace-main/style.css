@@ -1,5 +1,4 @@
 body{
-    background-color: rgb(102, 228, 237);
     font-size: normal 10pt arial;
     position: absolute;
     top: 50%; /* distancia em relacao ao topo*/
@@ -37,6 +36,6 @@ footer{
     border: none;
 }
 .btn:hover{/* quando o mouse passar em cima*/
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(9, 127, 135);
 }
 
